@@ -1,0 +1,6 @@
+{
+  "name": "AI Government Scheme Finder",
+  "description": "An AI-powered platform to instantly discover eligible government schemes using Gemini AI, with bilingual (Tamil & English) support, eligibility assessment, voice search, custom scheme upload, and Q&A chat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
